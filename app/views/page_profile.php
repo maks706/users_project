@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Профиль пользователя</title>
+    <title>Қолданушы парақшасы</title>
     <meta name="description" content="Chartist.html">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, minimal-ui">
@@ -25,15 +25,15 @@
             <div class="collapse navbar-collapse" id="navbarColor02">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item ">
-                        <a class="nav-link" href="">Главная</a>
+                        <a class="nav-link" href="">Басты</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/login">Войти</a>
+                        <a class="nav-link" href="/login">Кіру</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/logout">Выйти</a>
+                        <a class="nav-link" href="/logout">Шығу</a>
                     </li>
                 </ul>
             </div>
