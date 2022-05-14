@@ -1,2 +1,2 @@
 # users_project
-project with my mvc pattern
+project with my mvc framework
